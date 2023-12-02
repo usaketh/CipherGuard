@@ -1,2 +1,2 @@
 # CipherGuard
-Shows the strength of password based on various advanced parameters.
+Dynamically calculates the strength of password by performing Password Entropy Analysis.
